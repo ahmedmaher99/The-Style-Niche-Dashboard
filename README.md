@@ -129,7 +129,7 @@ This enables businesses to understand retention patterns and customer loyalty.
 
 ## The Style Niche Dashboard
 
-![Dashboard Preview](Screenshot.png)
+![Dashboard Preview](https://github.com/ahmedmaher99/The-Style-Niche-Dashboard/blob/main/2024%20%26%202025.png)
 
 ---
 
