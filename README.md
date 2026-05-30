@@ -135,6 +135,7 @@ This enables businesses to understand retention patterns and customer loyalty.
 
 # 🛠️ Tools & Technologies
 
+- MySQL
 - Python
 - Power BI
 - Power Query
